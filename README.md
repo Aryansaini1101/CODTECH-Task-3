@@ -1,8 +1,9 @@
-**Name:** ARYAN SAINI;
-**Company:** CODTECH IT SOLUTIONS;
-**ID:** CT04DH1755;
-**Domain:**  Full Stack Web Development;
-**Duration:** July 5th, 2025 to August 5th, 2025;
+**Name:** ARYAN SAINI
+
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT04DH1755
+**Domain:**  Full Stack Web Development
+**Duration:** July 5th, 2025 to August 5th, 2025
 **Mentor:** Neela Santhosh Kumar 
 
 
